@@ -11,3 +11,29 @@ Me chamo Benildo de Jesus, tenho 22 anos e sou natural de São Paulo. Sou formad
 <a href="https://github.com/benildoJJr?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BenildoJJr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
 <a href="https://github.com/BenildoJJr?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/BenildoJJr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a>
 </p>
+
+<!-- Portfolio / Projetos_destaques -->
+<!--
+## Portfolio:
+- [Nome do projeto](link)
+- [Nome do projeto](link)
+- [Nome do projeto](link)
+- [Nome do projeto](link)
+- [Nome do projeto](link)
+-->
+
+<!-- Portfolio / Projetos_destaques -->
+## Linguagens de programação e ferramentas
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+</div>
+
+<!-- Animação -->
+
